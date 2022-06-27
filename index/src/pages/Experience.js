@@ -19,17 +19,17 @@ Fast learner, hard worker who is proficient in an array of scripting languages a
                             </div>
                         </div>
                     </div>
-                    {/* <div className="row">
+                    {<div className="row">
                         <div className="col-md-6 offset-md-3">
                             <div className="card mb-3">
                                 <div className="card-body">
-                                    <h5 className="card-title fw-bold">FrontEnd Developer <span className="h6">at Microsoft</span></h5>
-                                    <p className="mb-0">APR 2013 - APR 2016</p>
-                                    <small>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus earum vel excepturi autem mollitia, blanditiis voluptatum perspiciatis alias eos architecto in, adipisci voluptatem corrupti quidem enim accusamus itaque non tempore!</small>
+                                    <h5 className="card-title fw-bold">Internship <span className="h6">at Coding Gujju</span></h5>
+                                    <p className="mb-0">JUNE - 2022</p>
+                                    <small>Worked and Experienced on figma, css, html, reactjs, nodejs</small>
                                 </div>
                             </div>
                         </div>
-                    </div> */}
+                    </div> }
                 </div>
             </div>
         </React.Fragment>
